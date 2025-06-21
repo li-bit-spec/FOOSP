@@ -1,0 +1,5 @@
+Random + COBYLA, p=3
+Mean P_opt: 0.0496
+Std P_opt: 0.0020
+Mean Shots: 14000
+Runtime: 141.64 seconds

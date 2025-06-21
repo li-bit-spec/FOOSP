@@ -1,0 +1,5 @@
+Concentration + COBYLA, p=6
+Mean P_opt: 0.0540
+Std P_opt: 0.0040
+Mean Shots: 14000
+Runtime: 281.55 seconds
